@@ -7,9 +7,14 @@
 
   - After creating the sign in form we create/convert the sign in form into sign up form we creste this feature using useState and events and ternary opertator
 
+  - Toggle or hide and show are the same thing using state we use the toggle functionality
+
   - Now we provide some validation in my form
   - rember if u make large form in your react app always use formik library bcoz it's a big maintain a form  
-  - it's tie to make validation in my form
+  - it's time to make validation in my form
+  - we use useRef for form validation 
+  - validation means when u click on the button so it should validate the form 
+  - useRef = if you want to find out what is is the input box I need a reference of input box and that reference is created by the react
 
 
 
